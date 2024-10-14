@@ -1,0 +1,10 @@
+
+.list-item {
+    background-color: #f8f9fa;
+    margin-bottom: 0.5rem;
+}
+.highlight {
+    background-color: #e7f1ff;
+    border-radius: 5px;
+    padding: 10px;
+}
