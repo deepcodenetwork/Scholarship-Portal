@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 2dcee8f479569105b30c315f2b3bf9383b278704
+# Scholarship-Portal
+## It is a part of a collaborative Scholarship platform project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -75,7 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 <<<<<<< HEAD
 =======
 =======
-# Scholarship-Portal
-## It is a part of a collaborative Scholarship platform project.
->>>>>>> origin/main
->>>>>>> 2dcee8f479569105b30c315f2b3bf9383b278704
+
+
